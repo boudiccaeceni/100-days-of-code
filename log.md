@@ -20,7 +20,7 @@ At 44 it's easy to feel that I'm too old to start something new - however, life 
 **Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+<!---### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
