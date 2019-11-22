@@ -11,14 +11,13 @@ At 44 it's easy to feel that I'm too old to start something new - however, life 
 
 **Link to work:** Not much to see yet but here's my github https://github.com/boudiccaeceni and here's my [twitter](https://twitter.com/death0zero)
 
-<!---### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: November 22, 2019 )
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed exercise 4.06 in the coursera course. This is about building and using functions. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I was confused over the return value used inside the function and how to call and print the function.  I was missing a step and now understand that the return value inside the function is not used anywhere else, that it's job is just to put the result of a calculation into the function. (At this stage and in this case anyway!) I rewatched the lecture videos and made notes and diagrams and wrote my ocde parallel to an example piece of code - this is how I worked out that a step was missing. I feel like I learned more than if I'd asked for guidance. Two useful affirmations that I'm trying to build into my routine are,"Mistakes are a stepping stone to success. They are the path I must tread to achieve my dreams" and, "When I fail, I learn. My failures are temporary because my perseverence is permanent. I push forward at all times because I know I can succeed. As I continually believe in myself, my confidence increases." I'm sure these helped me persevere today so I'm sharing them incse they help others!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
 ### Day 1: June 27, Monday
