@@ -11,21 +11,20 @@ At 44 it's easy to feel that I'm too old to start something new - however, life 
 
 **Link to work:** Not much to see yet but here's my github https://github.com/boudiccaeceni and here's my [twitter](https://twitter.com/death0zero)
 
-### Day 2: November 22, 2019 )
+### Day 2: November 22, 2019 
 
 **Today's Progress**: Completed exercise 4.06 in the coursera course. This is about building and using functions. 
 
 **Thoughts**: I was confused over the return value used inside the function and how to call and print the function.  I was missing a step and now understand that the return value inside the function is not used anywhere else, that it's job is just to put the result of a calculation into the function. (At this stage and in this case anyway!) I rewatched the lecture videos and made notes and diagrams and wrote my ocde parallel to an example piece of code - this is how I worked out that a step was missing. I feel like I learned more than if I'd asked for guidance. Two useful affirmations that I'm trying to build into my routine are,"Mistakes are a stepping stone to success. They are the path I must tread to achieve my dreams" and, "When I fail, I learn. My failures are temporary because my perseverence is permanent. I push forward at all times because I know I can succeed. As I continually believe in myself, my confidence increases." I'm sure these helped me persevere today so I'm sharing them incase they help others!
 
-**Link(s) to work**: 
+**Link(s) to work**: Cannot link to answer code as it's frowned upon by coursera. But posting images of my grades on [twitter](https://twitter.com/death0zero)
 
 
-<!---### Day 1: June 27, Monday
+### Day 3: November 23, 2019
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Worked through chapters on finding the largest (and smallest) value, and Loop idioms. Introduced to Boolean variables and the None variable. Happy to have noted that using -1 or 1000 for finding the largest and smallest numbers respectively is not ideal and will quickly go wrong - before the materials pointed it out :D Also had counselling call with skillcrush mentor which was super useful and gave me a focus. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** The happy thing above is really encouraging to me and I'll have to try and remember moments like this when I get super frustrated and de motivated in future when it gets more difficult!
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) --->
+**Link(s) to work**Cannot link to answer code as it's frowned upon by coursera. But posting images of my grades on [twitter](https://twitter.com/death0zero)
+
