@@ -28,3 +28,11 @@ At 44 it's easy to feel that I'm too old to start something new - however, life 
 
 **Link(s) to work**Cannot link to answer code as it's frowned upon by coursera. But posting images of my grades on [twitter](https://twitter.com/death0zero)
 
+
+### Day 4: November 24, 2019
+
+**Today's Progress**: Sweating and dizzy with 'flu :o Attempted a worked example where you enter numbers and when you input Done, the program prints the total, count and average of the number. Also using try/except for anything which isn't Done or a number and printing a useful error message before asking for another input. Seemed easy to do! Attempting last assignment which is similar but which asks us to print largest and smallest. Too ill to concentrate much so after 2 hours I am retiring to the sofa :( 
+
+**Thoughts** Pleased I grasped a worked example and went ahead and solved it before watching all of the video. And pleased I managed to put some time in despite being ill :o
+
+
