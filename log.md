@@ -47,4 +47,4 @@ At 44 it's easy to feel that I'm too old to start something new - however, life 
 
 **Thoughts**: So pleased that I got it to work without asking for advice on the forums :D
 
-**Link(s) to work**: Cannot link to answer code as it's frowned upon by coursera. But here is my certificate!](https://www.coursera.org/account/accomplishments/certificate/JGGZPPSX6GZC?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+**Link(s) to work**: Cannot link to answer code as it's frowned upon by coursera. But [here is my certificate!](https://www.coursera.org/account/accomplishments/certificate/JGGZPPSX6GZC?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
