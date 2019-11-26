@@ -24,9 +24,7 @@ At 44 it's easy to feel that I'm too old to start something new - however, life 
 
 **Today's Progress**: Worked through chapters on finding the largest (and smallest) value, and Loop idioms. Introduced to Boolean variables and the None variable. Happy to have noted that using -1 or 1000 for finding the largest and smallest numbers respectively is not ideal and will quickly go wrong - before the materials pointed it out :D Also had counselling call with skillcrush mentor which was super useful and gave me a focus. 
 
-**Thoughts** The happy thing above is really encouraging to me and I'll have to try and remember moments like this when I get super frustrated and de motivated in future when it gets more difficult!
-
-**Link(s) to work**Cannot link to answer code as it's frowned upon by coursera. But posting images of my grades on [twitter](https://twitter.com/death0zero)
+**Thoughts**: The happy thing above is really encouraging to me and I'll have to try and remember moments like this when I get super frustrated and de motivated in future when it gets more difficult!
 
 
 ### Day 4: November 24, 2019
