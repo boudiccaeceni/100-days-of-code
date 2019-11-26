@@ -33,20 +33,20 @@ At 44 it's easy to feel that I'm too old to start something new - however, life 
 
 **Today's Progress**: Sweating and dizzy with 'flu :o Attempted a worked example where you enter numbers and when you input Done, the program prints the total, count and average of the number. Also using try/except for anything which isn't Done or a number and printing a useful error message before asking for another input. Seemed easy to do! Attempting last assignment which is similar but which asks us to print largest and smallest. Too ill to concentrate much so after 2 hours I am retiring to the sofa :( 
 
-**Thoughts** Pleased I grasped a worked example and went ahead and solved it before watching all of the video. And pleased I managed to put some time in despite being ill :o
+**Thoughts**: Pleased I grasped a worked example and went ahead and solved it before watching all of the video. And pleased I managed to put some time in despite being ill :o
 
 
 ### Day !=5: November 25, 2019
 
 **Today's Progress**: Mostly sneezing and dizzy today. I had a read through some of the discussion forum posts about the assignment and thought about it a lot but brain power was in short supply so I didn't get much done. Not sure I spent an hour at the desk so not counting today. 
 
-**Thoughts** I was super motivated to work on the assignment despite being ill and unable to which is good news!
+**Thoughts**: I was super motivated to work on the assignment despite being ill and unable to which is good news!
 
 
 ### Day 5: November 26, 2019
 
 **Today's Progress**: Finished the last assignment on the course! We'd made short programs that asked for user input and gave a total and count, and we'd made ones which worked from a list of numbers written into the code and printed out the smallest. In the assignment we had to write one which asked for user input - carried out error checking - and printed out the smallest and largest after the user was done. So I was working out how to take the smallest calculation from one and combine it with the user input of the other. 
 
-**Thoughts** So pleased that I got it to work without asking for advice on the forums :D
+**Thoughts**: So pleased that I got it to work without asking for advice on the forums :D
 
-**Link(s) to work**Cannot link to answer code as it's frowned upon by coursera. But here is my certificate!](https://www.coursera.org/account/accomplishments/certificate/JGGZPPSX6GZC?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+**Link(s) to work**: Cannot link to answer code as it's frowned upon by coursera. But here is my certificate!](https://www.coursera.org/account/accomplishments/certificate/JGGZPPSX6GZC?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
