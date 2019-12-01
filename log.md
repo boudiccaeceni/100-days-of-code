@@ -65,6 +65,6 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 **Today's Progress**: Worked on the milestone project. Taking the opportunity to become more familiar with git and github, so I created a branch and then merged it once I'd finished for the day. I drew a diagram of what my sections' classes and ids will be called.  
 
-**Thoughts**: The github processes are not entirely clear to me at the moment so I reckon practice is key. Naming and structure of sections is quite confusing too sp I asked on the class slack channel if there are guildelines anywhere.
+**Thoughts**: The github processes are not entirely clear to me at the moment so I reckon practice is key. Naming and structure of sections is quite confusing too so I asked on the class slack channel if there are guildelines anywhere.
 
 **Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/milestone-project)
