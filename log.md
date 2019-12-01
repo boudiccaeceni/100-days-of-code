@@ -58,3 +58,13 @@ At 44 it's easy to feel that I'm too old to start something new - however, life 
 I have been putting this off because I don't feel that I (or anyone) can be at a level where it's appropriate to have a portfolio site at this stage of the course. I realise that no-one will even see it ofcourse, but I find it very difficult to write a blurb like "My name is x and I'm passionate about coding bla bla bla" when I can just about code up a website with loads of instructions and guidance over a period of days. It seems very premature to be advertising my skills. I would prefer to be making a website about something I'm interested in instead, then I wouldn't feel so self conscious. Maybe I will just do that and see what they say - it's just different words after all, there'll be similar elements. Hmm.
 
 **Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/milestone-project)
+
+
+
+### Day 7: December 1, 2019 
+
+**Today's Progress**: Worked on the milestone project. Taking the opportunity to become more familiar with git and github, so I created a branch and then merged it once I'd finished for the day. I drew a diagram of what my sections' classes and ids will be called.  
+
+**Thoughts**: The github processes are not entirely clear to me at the moment so I reckon practice is key. Naming and structure of sections is quite confusing too sp I asked on the class slack channel if there are guildelines anywhere.
+
+**Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/milestone-project)
