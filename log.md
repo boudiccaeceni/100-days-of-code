@@ -80,10 +80,9 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
   <li>if time left, start working on milestone project</li>
 </ul>
 
-**Today's Progress**: Started working on the "milestone project" in my skillcrush course. This is a portfolio site with image of the things we've built in the course so far. I set up a git repo for this. 
+**Today's Progress**: 
 
-**Thoughts**: Just about well enough to get back to this after monster cold :o 
-I have been putting this off because I don't feel that I (or anyone) can be at a level where it's appropriate to have a portfolio site at this stage of the course. I realise that no-one will even see it ofcourse, but I find it very difficult to write a blurb like "My name is x and I'm passionate about coding bla bla bla" when I can just about code up a website with loads of instructions and guidance over a period of days. It seems very premature to be advertising my skills. I would prefer to be making a website about something I'm interested in instead, then I wouldn't feel so self conscious. Maybe I will just do that and see what they say - it's just different words after all, there'll be similar elements. Hmm.
+**Thoughts**: Massive break due to illness and ongoing computer problems. Cannot find a keyboard that actually works, have tried 4 so far. Feel overwhelmed with trying to get bcak on track. Plan is to work on the milestone project and at the same time work through the git/github module again and regularly use github to keep everything up to date. Using [Beeminder](https://www.beeminder.com/home) to try and stay on track.
 
-**Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/milestone-project)
+
 
