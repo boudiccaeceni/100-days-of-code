@@ -80,9 +80,22 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
   <li>if time left, start working on milestone project</li>
 </ul>
 
-**Today's Progress**: 
+**Thoughts**: Massive break due to illness and ongoing computer problems. Cannot find a keyboard that actually works, have tried 4 so far. Feel overwhelmed with trying to get back on track with the [skillcrush](https://www.skillcrush.com) modules. Plan is to work on the milestone project and at the same time work through the git/github module again and regularly use github to keep everything up to date. Using [Beeminder](https://www.beeminder.com/home) to try and stay on track.
 
-**Thoughts**: Massive break due to illness and ongoing computer problems. Cannot find a keyboard that actually works, have tried 4 so far. Feel overwhelmed with trying to get bcak on track. Plan is to work on the milestone project and at the same time work through the git/github module again and regularly use github to keep everything up to date. Using [Beeminder](https://www.beeminder.com/home) to try and stay on track.
+### Day 9: February 20, 2020 
+
+**Today's Intentions**: 
+<ul>
+  <li>¬restart 100 days of code¬</li>
+  <li>identify relevant repos for current study</li>
+  <li>ensure files on laptop are up to date</li>
+  <li>if time left, start working on milestone project</li>
+</ul>
+**Today's Progress**: Worked on the milestone project. Taking the opportunity to become more familiar with git and github, so I created a branch and then merged it once I'd finished for the day. I drew a diagram of what my sections' classes and ids will be called.  
+
+**Thoughts**: The github processes are not entirely clear to me at the moment so I reckon practice is key. Naming and structure of sections is quite confusing too so I asked on the class slack channel if there are guildelines anywhere.
+
+**Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/milestone-project)
 
 
 
