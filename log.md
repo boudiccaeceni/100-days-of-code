@@ -75,25 +75,26 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 **Today's Intentions**: 
 <ul>
   <li><s>restart 100 days of code</s></li>
-  <li>identify relevant repos for current study</li>
+  <li><s>identify relevant repos for current study</s>/li>
   <li>ensure files on laptop are up to date</li>
   <li>if time left, start working on milestone project</li>
 </ul>
 
 **Thoughts**: Massive break due to illness and ongoing computer problems. Cannot find a keyboard that actually works, have tried 4 so far. Feel overwhelmed with trying to get back on track with the [skillcrush](https://www.skillcrush.com) modules. Plan is to work on the milestone project and at the same time work through the git/github module again and regularly use github to keep everything up to date. Using [Beeminder](https://www.beeminder.com/home) to try and stay on track.
 
-### Day 9: February 20, 2020 
+
+### Day 9: February 21, 2020 
 
 **Today's Intentions**: 
 <ul>
-  <li>¬restart 100 days of code¬</li>
-  <li>identify relevant repos for current study</li>
+  <li>work through the skillcrush module on git and github until I get to the point where I can do the next step</li>
   <li>ensure files on laptop are up to date</li>
   <li>if time left, start working on milestone project</li>
 </ul>
-**Today's Progress**: Worked on the milestone project. Taking the opportunity to become more familiar with git and github, so I created a branch and then merged it once I'd finished for the day. I drew a diagram of what my sections' classes and ids will be called.  
 
-**Thoughts**: The github processes are not entirely clear to me at the moment so I reckon practice is key. Naming and structure of sections is quite confusing too so I asked on the class slack channel if there are guildelines anywhere.
+**Yesterday's Progress**: STARTED. Working with command line/gitbash and that started to feel familiar again. Attended a meetup group which was excellent although way out of my comfort zone.   
+
+**Thoughts**: I have made lists before but I think it might be helpful if I made a big colourful chart I can put up on a wall to see the modules I'm going to be working through and hopeful estimates of timeframes. ALSO, when committing changes to this log should I be hitting the commit to master branch button or creating a new branch. I've been doing the former as it was the default. Suspect it should be the latter but will wait until I understand it better as don't want to muck everything up/lose the log etc.
 
 **Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/milestone-project)
 
