@@ -74,7 +74,7 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 **Today's Intentions**: 
 <ul>
-  <li>restart 100 days of code</li>
+  <li>~restart 100 days of code~</li>
   <li>identify relevant repos for current study</li>
   <li>ensure files on laptop are up to date</li>
   <li>if time left, start working on milestone project</li>
