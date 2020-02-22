@@ -110,7 +110,7 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 **Yesterday's Progress**:Finished another github module. Put all courses onto trello. I find ticking things off really motivates me and I'm going to make this into a gantt chart. Being able to show that I project managed my own home studies has got to look good in a job interview right?   
 
-**Thoughts**: It's good to do this first thing in the day incase I don't have time later. I'm pretty excited about seeing the above mentioned gantt chart and thinking about being abel to work on projects on github.
+**Thoughts**: It's good to do this first thing in the day incase I don't have time later. I'm pretty excited about seeing the above mentioned gantt chart and thinking about being able to work on projects on github.
 
 **Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/milestone-project)
 
