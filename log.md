@@ -122,7 +122,7 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
   <li><s>work through another lesson of the github module</s></li>
   <li>work out if I have done this log file correctly - pretty sure I should have separated it from the original more thoroughly</li>
   <li><s>put all modules into trello and gantt chart</s></li>
-  <li>start workign on portfolio</li>
+  <li>start working on portfolio</li>
 </ul>
 
 **Thoughts**: There is really some kind of block in my mind about continuing with the portfolio site. I think it will be useful to continue with the github module and finish that first, then concentrate on the site.
