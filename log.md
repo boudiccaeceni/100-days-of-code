@@ -103,7 +103,7 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 **Today's Intentions**: 
 <ul>
-  <li><s>work through the skillcrush module on git and github until I get to the point where I can do the next step (didn't quite manage that yesterday)<s></li>
+  <li><s>work through the skillcrush module on git and github until I get to the point where I can do the next step (didn't quite manage that yesterday)</s></li>
   <li>ensure files on laptop are up to date</li>
   <li>go to hackathon</li>
 </ul>
