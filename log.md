@@ -129,3 +129,12 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 **Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/milestone-project)
 
+
+### Day 12: February 24, 2020
+
+**Today's Intentions**: Not much time so just to work through more of the git module. Not enough tiem to get into the sie building.
+
+**Thoughts**: Wednesday and Thursday I will dedicate to the site - to try and get it done very early in March. Before 5th.
+
+
+
