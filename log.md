@@ -137,4 +137,11 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 **Thoughts**: Wednesday and Thursday I will dedicate to the site - to try and get it done very early in March. Before 5th.
 
 
+### Day 13: February 25, 2020 
+
+**Today's Intentions**: Another super busy day so not much time to study but started the code institute 5 day coding challenge.
+
+**Thoughts**: Need to ringfence some time to do this as other tuff keeps creeping into the day.
+
+**Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/milestone-project)
 
