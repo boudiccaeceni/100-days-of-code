@@ -141,7 +141,27 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 **Today's Intentions**: Another super busy day so not much time to study but started the code institute 5 day coding challenge.
 
-**Thoughts**: Need to ringfence some time to do this as other tuff keeps creeping into the day.
+**Thoughts**: Need to ringfence some time to do this as other stuff keeps creeping into the day.
 
 **Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/milestone-project)
+
+
+### Day 14: February 26, 2020 
+
+**Today's Intentions**: Work on Code Institute 5 day coding challenge.  
+
+**Thoughts**: Very little time but did days 1 and 2 of this.
+
+
+### Day 15: February 27, 2020 
+
+**Today's Intentions**: 
+<ul>
+  <li>Keep up to date on the 5DCC</li>
+  <li>Tick another github lesson off the trello list</li>
+</ul>
+
+**Thoughts**: Finished another github module, dealing with merge conflicts this time. Got up to date on the 5DCC. It's complete beginner web stuff so I'm being reminded that I do actually know some stuff. I really need this kind of reinforcement at this point.
+
+**Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/105-coding_resources)
 
