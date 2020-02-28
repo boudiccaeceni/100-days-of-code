@@ -168,7 +168,7 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 ### Day 16: February 28, 20209 
 
-**Today's Progress**: The certificate from the 5 day coding challenge from [Code Institute 5DCC] (https://courses.codeinstitute.net/certificates/85d9ca79adec44a2a0a37b15502aea88). The end of the course touched on a bit of responsive functionality which was exciting and remotivated me to get onto this section of my proper course! There was also a little bit of JavaScript which was familiar from studying visual basic as part of an (unfinished) degree in Computing and IT the open univeristy (apparently to teach you basically how OOP works - which it did as I recognised JavaScript - but no actual use to anyone in real life...) So I'm excited about getting to learn that in more depth too.
+**Today's Progress**: The certificate from the 5 day coding challenge from [Code Institute] (https://courses.codeinstitute.net/certificates/85d9ca79adec44a2a0a37b15502aea88). The end of the course touched on a bit of responsive functionality which was exciting and remotivated me to get onto this section of my proper course! There was also a little bit of JavaScript which was familiar from studying visual basic as part of an (unfinished) degree in Computing and IT the open univeristy (apparently to teach you basically how OOP works - which it did as I recognised JavaScript - but no actual use to anyone in real life...) So I'm excited about getting to learn that in more depth too.
 Worked through a lesson of the github module - this was about changing commit messages, deleting commits both on local machines and remote repos. 
 
 **Thoughts:** Focussing on my March 20th deadline to get the basic portfolio page done. Really want to get past it.
