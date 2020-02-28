@@ -168,11 +168,9 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 ### Day 16: February 28, 20209 
 
-**Today's Progress**: The[Code Institute 5DCC (5 day coding challenge)]certificate (https://courses.codeinstitute.net/certificates/85d9ca79adec44a2a0a37b15502aea88). 
+**Today's Progress**: The certificate from the 5 day coding challenge from [Code Institute 5DCC] (https://courses.codeinstitute.net/certificates/85d9ca79adec44a2a0a37b15502aea88). The end of the course touched on a bit of responsive functionality which was exciting and remotivated me to get onto this section of my proper course! There was also a little bit of JavaScript which was familiar from studying visual basic as part of an (unfinished) degree in Computing and IT the open univeristy (apparently to teach you basically how OOP works - which it did as I recognised JavaScript - but no actual use to anyone in real life...) So I'm excited about getting to learn that in more depth too.
+Worked through a lesson of the github module - this was about changing commit messages, deleting commits both on local machines and remote repos. 
 
-**Thoughts:** My coding background is - I studied Computing and IT with the Open University from 2011 to 2015. We did a little visual basic which was fun but I didn't get the impression it was that relevant. I dropped out when ill health coincided with the module on agile - I just wanted to code at that point. Fast forward a few years and after some intense thinking about what I want to retrain in as my health improves I realised it was coding :)
-I'm currently enrolled on the [Break into Tech course with Skillcrush](https://skillcrush.com/break-into-tech-blueprint) and stalled at the point of building a portfolio site as I don't think I'm ready to publicise my skills. Also I have been working through free code camp and have just started the Applied Visual Design chapter. ALSO I have nearly finished [Getting Started with Python](https://www.coursera.org/learn/python/home/welcome) presented by Charles Severance at the University of Michigan, via coursera. Clearly I lack focus, but have a lot of enthusiasm!
-Yesterday I jumped ahead in my skillcrush course to set up a wordpress blog to document my coding journey. When it's live I will put a link here.
-At 44 it's easy to feel that I'm too old to start something new - however, life is short and I'm not about to give up! I get real satisfaction from understanding and using technical ideas - hence my enjoyment of knitting lace! Plus I think that coding is a skill that once I have I can shoose who I work for so my earning sources will align with my values.
+**Thoughts:** Focussing on my March 20th deadline to get the basic portfolio page done. Really want to get past it.
 
 **Link to work:** Not much to see yet but here's my github https://github.com/boudiccaeceni and here's my [twitter](https://twitter.com/death0zero)
