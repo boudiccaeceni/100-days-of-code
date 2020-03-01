@@ -172,9 +172,11 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 
 
-The end of the course touched on a bit of responsive functionality which was exciting and remotivated me to get onto this section of my proper course! There was also a little bit of JavaScript which was familiar from studying visual basic as part of an (unfinished) degree in Computing and IT the open univeristy (apparently to teach you basically how OOP works - which it did as I recognised JavaScript - but no actual use to anyone in real life...) So I'm excited about getting to learn that in more depth too.
-Worked through a lesson of the github module - this was about changing commit messages, deleting commits both on local machines and remote repos. 
+### Day 17: February 29, 20209 
 
-**Thoughts:** Focussing on my March 20th deadline to get the basic portfolio page done. Really want to get past it.
+**Today's Progress**: Went through the notes on the process of what Skillcrush calls the forking workflow. Making topic branches to work on locally then syncing to the remote master before sending a pull request. This is very complicated to me at the moment which is why I think it's a great idea to just start using it when I continue working on the portfolio. And going through this process - even maybe making a small change to the remote master so  there is something to update - so I get used to how the process works and what order to do things in. The possibility for disaster seems high if one doens't know this inside out!
 
-**Link to work:** Not much to see yet but here's my github https://github.com/boudiccaeceni and here's my [twitter](https://twitter.com/death0zero)
+
+### Day 18: February 29, 20209 
+
+**Today's Progress**: 
