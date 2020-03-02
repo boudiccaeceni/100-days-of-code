@@ -180,4 +180,12 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 **Today's Progress**: Tried to work through the forking work flow section but things kept going wrong and the instructions made no sense, then I ran out of time. 
 
-**Link(s) to work**: [My github](https://github.com/boudiccaeceni)
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
+
+### Day 19: March 2, 20209 
+
+**Today's Progress**: Finally got to work through the section I've been sweating over for days. Tomorrow is about hositng pages on github which I'm very excited about. 
+
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
