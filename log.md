@@ -171,12 +171,13 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 **Today's Progress**: My [certificate](https://courses.codeinstitute.net/certificates/85d9ca79adec44a2a0a37b15502aea88) from the 5 day coding challenge from Code Institute. 
 
 
-
 ### Day 17: February 29, 20209 
 
 **Today's Progress**: Went through the notes on the process of what Skillcrush calls the forking workflow. Making topic branches to work on locally then syncing to the remote master before sending a pull request. This is very complicated to me at the moment which is why I think it's a great idea to just start using it when I continue working on the portfolio. And going through this process - even maybe making a small change to the remote master so  there is something to update - so I get used to how the process works and what order to do things in. The possibility for disaster seems high if one doens't know this inside out!
 
 
-### Day 18: February 29, 20209 
+### Day 18: March 1, 20209 
 
-**Today's Progress**: 
+**Today's Progress**: Tried to work through the forking work flow section but things kept going wrong and the instructions made no sense, then I ran out of time. 
+
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni)
