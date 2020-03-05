@@ -186,6 +186,26 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 ### Day 19: March 2, 20209 
 
-**Today's Progress**: Finally got to work through the section I've been sweating over for days. Tomorrow is about hositng pages on github which I'm very excited about. 
+**Today's Progress**: Finally got to work through the section I've been sweating over for days. Tomorrow is about hosting pages on github which I'm very excited about. 
 
 **Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
+
+### Day 20: March 3, 20209 
+
+**Today's Progress**: Got a basic static website hosted on here. Was more straightforward than expected.  
+
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
+
+### Day 21: March 5, 20209 
+
+**Today's Progress**: Yesterday and today I started to get familiar with the milestone project again. This is a site I need to build from a design comp only. Have given myself a deadline of March 20th.
+
+**Thoughts**; After spending time away from html and css to study github I feel like I've forgotten everything. I'm feeling extremely stupid and have asked the skillcrush slack channel for a hint or suggestion. Difficult to remain positive right now.
+
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
