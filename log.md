@@ -166,17 +166,17 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 **Link(s) to work**: [The github repository for the project](https://github.com/boudiccaeceni/105-coding_resources)
 
 
-### Day 16: February 28, 20209 
+### Day 16: February 28, 2020
 
 **Today's Progress**: My [certificate](https://courses.codeinstitute.net/certificates/85d9ca79adec44a2a0a37b15502aea88) from the 5 day coding challenge from Code Institute. 
 
 
-### Day 17: February 29, 20209 
+### Day 17: February 29, 2020 
 
 **Today's Progress**: Went through the notes on the process of what Skillcrush calls the forking workflow. Making topic branches to work on locally then syncing to the remote master before sending a pull request. This is very complicated to me at the moment which is why I think it's a great idea to just start using it when I continue working on the portfolio. And going through this process - even maybe making a small change to the remote master so  there is something to update - so I get used to how the process works and what order to do things in. The possibility for disaster seems high if one doens't know this inside out!
 
 
-### Day 18: March 1, 20209 
+### Day 18: March 1, 2020 
 
 **Today's Progress**: Tried to work through the forking work flow section but things kept going wrong and the instructions made no sense, then I ran out of time. 
 
@@ -184,7 +184,7 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 
 
-### Day 19: March 2, 20209 
+### Day 19: March 2, 2020
 
 **Today's Progress**: Finally got to work through the section I've been sweating over for days. Tomorrow is about hosting pages on github which I'm very excited about. 
 
@@ -192,7 +192,7 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 
 
-### Day 20: March 3, 20209 
+### Day 20: March 3, 2020
 
 **Today's Progress**: Got a basic static website hosted on here. Was more straightforward than expected.  
 
@@ -200,12 +200,57 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 
 
-### Day 21: March 5, 20209 
+### Day 21: March 5, 2020
 
 **Today's Progress**: Yesterday and today I started to get familiar with the milestone project again. This is a site I need to build from a design comp only. Have given myself a deadline of March 20th.
 
-**Thoughts**; After spending time away from html and css to study github I feel like I've forgotten everything. I'm feeling extremely stupid and have asked the skillcrush slack channel for a hint or suggestion. Difficult to remain positive right now.
+**Thoughts**: After spending time away from html and css to study github I feel like I've forgotten everything. I'm feeling extremely stupid and have asked the skillcrush slack channel for a hint or suggestion. Difficult to remain positive right now.
 
 **Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
+### Day 22: March 6, 2020
+
+**Today's Progress**: Made some progress with the half width and fullwidth divs. Got some feedback to my question from skillcrush tutors so was working through that.
+
+**Thoughts**: Feeling incredibly stupid and that my brain isn't good enough to do this - after I've invested time and money in training. At 45 I don't have an awful lot of possibilities ahead of me if I can't do this.
+
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
+### Day 23: March 7, 2020
+
+**Today's Progress**: Made some progress with elements - getting parents to expand to the height of child elements. 
+
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
+### Day 24: March 10, 2020
+
+**Today's Progress**: Some elements were not centred - skewed to the left or rights, others were the whole width of the screen instead of the width I'd specified - I got all that to work.
+
+**Thoughts**: Still not feeling great about this but determined to carry on.
+
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
+### Day 25: March 11, 2020
+
+**Today's Progress**: A good day. I got my image into the header section and made it the right size. I added another project image and text to the portfolio section. Added the image to the about me section. Added contact info, icons and copyright. THEN I installed the fonts from googlefonts and made all the text the correct font and size.
+
+**Thoughts**: Got so sad this morning that my partner sat down next to me for a few minutes. It made such a difference as I talked through the problem I had decided to fix and what I was going to do about it. Then I whizzed along and got loads done. Very pleased and grateful.
+
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
+### Day 26: March 12, 2020
+
+**Today's Progress**: Not much time to day but sat down and got the about me image to display correctly before I set off to visit a friend.
+
+**Thoughts**: I'm feeling like I can definitely get this finished by my self impossed deadline of March 20th!
+
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
 
 
