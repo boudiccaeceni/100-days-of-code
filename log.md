@@ -252,5 +252,14 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 **Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
 
 
+### Day 27: March 13, 2020
+
+**Today's Progress**: I tidied up all the text - some needed further clarification in the css as needed different colours indents. Made a start on the padding. Still to do is the contact section - everything is there but some padding needs to happen and some things are not lined up as they should be. 
+
+**Thoughts**: Still feeling positive about finishing!
+
+**Link(s) to work**: [My github](https://github.com/boudiccaeceni/)
+
+
 
 
