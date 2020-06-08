@@ -262,4 +262,15 @@ I have been putting this off because I don't feel that I (or anyone) can be at a
 
 
 
+### Day 1: June 8, 2020
+
+**Today's Progress**: Starting at day 1 after lockdown inertia :o 
+Worked through 3 lessons on FCC: applied visual design - about animations and hover states of buttons. 
+
+**Thoughts**: In order to get these new lessons to really sink in it might be a good idea to work through one and then try and incorporate it into my WIP portfolio site. That will be my approach tomorrow.
+
+**Link(s) to work**: [My FreeCodeCamp](https://www.freecodecamp.org/kgreen)
+
+
+
 
